@@ -12,7 +12,7 @@ A template file for creating simple command-line-interfaces. Includes commonly n
 
 ### How to use
 
-To get started, clone this repo and open the [`template.sh`](template.sh) file in a text editor. Fill-in your CLI's information (marked by `<angle brackets>`), and add your functions to the file — see the default [`no_args`](template.sh#L45) function for an example of the "library" in-use. Add your function to [`handel_input`](template.sh#L14)'s list of commands, and test it out:
+To get started, clone this repo (or hit the <kbd>Use this template</kbd> button) and open the [`template.sh`](template.sh) file in a text editor. Fill-in your CLI's information (marked by `<angle brackets>`), and add your functions to the file — see the default [`no_args`](template.sh#L45) function for an example of the "library" in-use. Add your function to [`handel_input`](template.sh#L14)'s list of commands, and test it out:
 
 ```bash
 sh template.sh <your-command-name>
