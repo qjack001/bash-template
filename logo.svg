@@ -2,7 +2,7 @@
 	<foreignObject width="100%" height="100%">
 		<div xmlns="http://www.w3.org/1999/xhtml">
 			<style>
-				#cursorbox { animation: blink 1s infinite steps(2); }
+				#cursorbox { animation: blink 1s infinite steps(1); }
 				@keyframes blink { 50% { opacity: 0; } }
 			</style>
 			<svg xmlns="http://www.w3.org/2000/svg" aria-label="template.sh logo">
