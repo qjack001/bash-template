@@ -1,10 +1,12 @@
 <h1>
-	<a href="https://github.com/qjack001/bash-template">
+	<a href="https://github.com/qjack001/bash-template?=new">
 		<img src="logo.svg" width="170.13" height="24" alt="template.sh logo">
 	</a>
 </h1>
 
 [ [How to use](#how-to-use) ][ [Installing your CLI](#installing-your-cli) ][ [Contributing](#contributing) ][ [Attribution](#attribution) ][ [Examples](#examples) ]
+
+<br>
 
 A template file for creating simple command-line-interfaces. Includes commonly needed functions, such as coloring text and getting input, as well as hard-to-implement features, like a keyboard-navigatable menu.
 
